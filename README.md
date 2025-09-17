@@ -224,7 +224,7 @@ Let's connect and create something extraordinary that drives both innovation and
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:dev.sarahmarion@gmail.com">
+<a href="mailto:dev@sarahmarion.com">
 <img src="https://img.shields.io/badge/Email%20Me-8A2BE2.svg?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
