@@ -166,7 +166,51 @@ I am deeply passionate about creating opportunities for women in technology acro
 </a>
 </p>
 
+## 🏆 Certifications
 
+<div align="center">
+  <a href="https://github.com/Sarah-Marion/ethical-hacking-ctf-writeups/blob/main/CTF-DoubleTrouble/Sarah%20Marion%20Ethical%20Hacker%20Certificate.pdf">
+    <img src="https://img.shields.io/badge/Ethical%20Hacking%20Certificate-Expert Level-00FF00?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Ethical Hacking Certificate" height="50"/>
+  </a>
+  <br><br>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20Dark%20Web%20Operations-course.pdf">
+          <img src="https://img.shields.io/badge/Dark Web Operations-Advanced-8A2BE2?style=flat-square&logo=torproject&logoColor=white" alt="Dark Web Operations" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20Digital%20Forensics-course.pdf">
+          <img src="https://img.shields.io/badge/Digital Forensics-Advanced-FF4500?style=flat-square&logo=microscope&logoColor=white" alt="Digital Forensics" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20Network%20Analysis-course.pdf">
+          <img src="https://img.shields.io/badge/Network Analysis-Advanced-0078D7?style=flat-square&logo=wireshark&logoColor=white" alt="Network Analysis" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20OSINT-course.pdf">
+          <img src="https://img.shields.io/badge/OSINT-Advanced-FF6B6B?style=flat-square&logo=search&logoColor=white" alt="OSINT" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20Threat%20Hunting-course.pdf">
+          <img src="https://img.shields.io/badge/Threat Hunting-Advanced-32CD32?style=flat-square&logo=eye&logoColor=white" alt="Threat Hunting" height="40"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Sarah-Marion/Security-Blue-Team-WriteUps/blob/main/certificates/Introduction%20to%20Vulnerability%20Management-course.pdf">
+          <img src="https://img.shields.io/badge/Vulnerability Management-Advanced-FFD700?style=flat-square&logo=shield&logoColor=black" alt="Vulnerability Management" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
