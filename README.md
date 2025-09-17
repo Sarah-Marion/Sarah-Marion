@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=700&size=36&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Sarah+Marion+-+Full+Stack+Futurist;Ethical+Hacker+-+Tech+Visionary;Let's+Build+the+Future+Together+🚀" alt="Typing SVG" />
+   <img src="/typing.svg" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://sarah-marion.github.io/Sarah-Marion/matrix.svg" width="100%" alt="matrix animation"/>
+  <img src="https://github.com/Sarah-Marion/Sarah-Marion/blob/main/matrix.svg" width="100%" alt="matrix animation"/>
 </div>
 
 ---
