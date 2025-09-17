@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="/matrix.svg" width="100%" alt="matrix animation"/>
+  <img src="https://raw.githubusercontent.com/Sarah-Marion/Sarah-Marion/main/matrix.svg" width="100%" alt="matrix animation"/>
 </div>
 
 ---
